@@ -1,0 +1,334 @@
+﻿THE CIA WORLD FACTBOOK 2001
+
+CONTENTS
+
+Countries and Locations
+
+Field Listings
+
+Appendixes
+
+Notes and Definitions
+
+History of The World Factbook
+
+Contributors and Copyright Information
+
+Purchasing Information
+
+=====================================================================
+
+In general, information available as of 1 January 2001 was used in the preparation of The World
+Factbook 2001.
+
+Selected data and maps in The World Factbook are updated periodically.
+
+=====================================================================
+
+Country Listing
+
+[Transcriber's note: To search on a country name in this file, prefix the name with "@", e.g.
+"@Afghanistan".  "Afghanistan" will find all occurrences; prefixing it with "@" will find the
+correct location.]
+
+A
+
+Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda
+Arctic Ocean Argentina Armenia Aruba Ashmore and Cartier Islands Atlantic Ocean Australia Austria
+Azerbaijan
+
+B
+
+Bahamas, The Bahrain Baker Island Bangladesh Barbados Bassas da India Belarus Belgium Belize
+Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian
+Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burma Burundi
+
+C
+
+Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China
+Christmas Island Clipperton Island Cocos (Keeling) Islands Colombia Comoros Congo, Democratic
+Republic of the Congo, Republic of the Cook Islands Coral Sea Islands Costa Rica Cote d'Ivoire
+Croatia Cuba Cyprus Czech Republic
+
+D
+
+Denmark Djibouti Dominica Dominican Republic
+
+E
+
+Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Europa Island
+
+F
+
+Falkland Islands (Islas Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia
+French Southern and Antarctic Lands
+
+G
+
+Gabon Gambia, The Gaza Strip Georgia Germany Ghana Gibraltar Glorioso Islands Greece Greenland
+Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana
+
+H
+
+Haiti Heard Island and McDonald Islands Holy See (Vatican City) Honduras Hong Kong Howland
+Island Hungary
+
+I
+
+Iceland India Indian Ocean Indonesia Iran Iraq Ireland Israel Italy
+
+J
+
+Jamaica Jan Mayen Japan Jarvis Island Jersey Johnston Atoll Jordan Juan de Nova Island
+
+K
+
+Kazakhstan Kenya Kingman Reef Kiribati Korea, North Korea, South Kuwait Kyrgyzstan
+
+L
+
+Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg
+
+M
+
+Macau Macedonia, The Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta
+Man, Isle of Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated
+States of Midway Islands Moldova Monaco Mongolia Montserrat Morocco Mozambique
+
+N
+
+Namibia Nauru Navassa Island Nepal Netherlands Netherlands Antilles New Caledonia New Zealand
+Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway
+
+O
+
+Oman
+
+P
+
+Pacific Ocean Pakistan Palau Palmyra Atoll Panama Papua New Guinea Paracel Islands Paraguay
+Peru Philippines Pitcairn Islands Poland Portugal Puerto Rico
+
+Q
+
+Qatar
+
+R
+
+Reunion Romania Russia Rwanda
+
+S
+
+Saint Helena Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and
+the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Seychelles Sierra
+Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the
+South Sandwich Islands Southern Ocean Spain Spratly Islands Sri Lanka Sudan Suriname Svalbard
+Swaziland Sweden Switzerland Syria
+
+T
+
+Taiwan entry follows Zimbabwe Tajikistan Tanzania Thailand Togo Tokelau Tonga Trinidad and
+Tobago Tromelin Island Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu
+
+U
+
+Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay Uzbekistan
+
+V
+
+Vanuatu Venezuela Vietnam Virgin Islands
+
+W
+
+Wake Island Wallis and Futuna West Bank Western Sahara World
+
+Y
+
+Yemen Yugoslavia
+
+Z
+
+Zambia Zimbabwe
+
+Taiwan
+
+=====================================================================
+
+Field Listings
+
+[Transcriber's note: To search on a field code in this file, prefix the code number with "@",
+e.g. "@Airports".  "Airports" will find all occurrences; prefixing it with "@" will find the
+correct location.]
+
+Field Description
+
+Administrative divisions Age structure Agriculture - products Airports Airports - with paved
+runways Airports - with unpaved runways Area Area - comparative Background Birth rate Budget
+Capital Climate Coastline Communications - note Constitution Country name Currency Currency
+code Death rate Debt - external Dependency status Dependent areas Diplomatic representation
+from the US Diplomatic representation in the US Disputes - international Economic aid - donor
+Economic aid - recipient Economy - overview Electricity - consumption Electricity - exports
+Electricity - imports Electricity - production Electricity - production by source Elevation
+extremes Environment - current issues Environment - international agreements Ethnic groups
+Exchange rates Executive branch Exports Exports - commodities Exports - partners Fiscal year
+Flag description GDP GDP - composition by sector GDP - per capita GDP - real growth rate Geographic
+coordinates Geography - note Government - note Government type Heliports Highways HIV/AIDS
+- adult prevalence rate HIV/AIDS - deaths HIV/AIDS - people living with HIV/AIDS Household
+income or consumption by Illicit drugs Imports Imports - commodities Imports - partners Independence
+Industrial production growth rate Industries Infant mortality rate Inflation rate (consumer
+prices) International organization participation Internet country code Internet Service Providers
+(ISPs) Internet users Irrigated land Judicial branch Labor force Labor force - by occupation
+Land boundaries Land use Languages Legal system Legislative branch Life expectancy at birth
+Literacy Location Map references Maritime claims Merchant marine Military - note Military branches
+Military expenditures - dollar figure Military expenditures - percent of GDP Military manpower
+- availability Military manpower - fit for military Military manpower - military age Military
+manpower - reaching military National holiday Nationality Natural hazards Natural resources
+Net migration rate People - note Pipelines Political parties and leaders Political pressure
+groups and leaders Population Population below poverty line Population growth rate Ports and
+harbors Radio broadcast stations Radios Railways Religions Sex ratio Suffrage Telephone system
+Telephones - main lines in use Telephones - mobile cellular Television broadcast stations Televisions
+Terrain Total fertility rate Transportation - note Unemployment rate Waterways
+
+======================================================================
+
+Appendixes
+
+Appendix A - Abbreviations
+
+Appendix B - International Organizations and Groups
+
+Appendix C - Selected International Environmental Agreements
+
+Appendix D - Cross-Reference List of Country Data Codes
+
+Appendix E - Cross-Reference List of Hydrographic Data Codes
+
+Appendix F - Cross-Reference List of Geographic Names
+
+======================================================================
+
+Notes and Definitions
+
+In addition to the updating of information, the following changes have been made in this edition
+of The World Factbook. The entity of Serbia and Montenegro is now officially known as Yugoslavia.
+There are new entries on:  Currency code, HIV/AIDS - adult prevalence rate, HIV/AIDS - deaths,
+HIV/AIDS - people living with HIV/AIDS, Internet users, and Internet country code.  The Background
+entry, which was introduced in the 1999 edition, has now been completed for all 267 entities
+in the Factbook.  The individual country maps are being revised.  Some new maps with elevation
+extremes and a partial geographic grid are included in this edition.
+
+Abbreviations This information is included in Appendix A: Abbreviations, which includes all
+abbreviations and acronyms used in the Factbook, with their expansions.
+
+Acronyms An acronym is an abbreviation coined from the initial letter of each successive word
+in a term or phrase.  In general, an acronym made up solely from the first letter of the major
+words in the expanded form is rendered in all capital letters (NATO from North Atlantic Treaty
+Organization; an exception would be ASEAN for Association of Southeast Asian Nations).  In
+general, an acronym made up of more than the first letter of the major words in the expanded
+form is rendered with only an initial capital letter (Comsat from Communications Satellite
+Corporation; an exception would be NAM from Nonaligned Movement). Hybrid forms are sometimes
+used to distinguish between initially identical terms (WTO:  WTrO for World Trade Organization
+and WToO for World Tourism Organization.)
+
+Administrative divisions This entry generally gives the numbers, designatory terms, and first-
+order administrative divisions as approved by the US Board on Geographic Names (BGN). Changes
+that have been reported but not yet acted on by BGN are noted.
+
+Age structure This entry provides the distribution of the population according to age. Information
+is included by sex and age group (0-14 years, 15-64 years, 65 years and over). The age structure
+of a population affects a nation's key socioeconomic issues. Countries with young populations
+(high percentage under age 15) need to invest more in schools, while countries with older populations
+(high percentage ages 65 and over) need to invest more in the health sector. The age structure
+can also be used to help predict potential political issues. For example, the rapid growth
+of a young adult population unable to find employment can lead to unrest.
+
+Agriculture - products This entry is a rank ordering of major crops and products starting with
+the most important.
+
+Airports This entry gives the total number of airports. The runway(s) may be paved (concrete
+or asphalt surfaces) or unpaved (grass, dirt, sand, or gravel surfaces), but must be usable.
+Not all airports have facilities for refueling, maintenance, or air traffic control.
+
+Airports - with paved runways This entry gives the total number of airports with paved runways
+(concrete or asphalt surfaces). For airports with more than one runway, only the longest runway
+is included according to the following five groups - (1) over 3,047 m, (2) 2,438 to 3,047 m,
+(3) 1,524 to 2,437 m, (4) 914 to 1,523 m, and (5) under 914 m. Only airports with usable runways
+are included in this listing. Not all airports have facilities for refueling, maintenance,
+or air traffic control.
+
+Airports - with unpaved runways This entry gives the total number of airports with unpaved
+runways (grass, dirt, sand, or gravel surfaces). For airports with more than one runway, only
+the longest runway is included according to the following five groups - (1) over 3,047 m, (2)
+2,438 to 3,047 m, (3) 1,524 to 2,437 m, (4) 914 to 1,523 m, and (5) under 914 m. Only airports
+with usable runways are included in this listing. Not all airports have facilities for refueling,
+maintenance, or air traffic control
+
+Appendixes This section includes Factbook-related material by topic.
+
+Area This entry includes three subfields. Total area is the sum of all land and water areas
+delimited by international boundaries and/or coastlines. Land area is the aggregate of all
+surfaces delimited by international boundaries and/or coastlines, excluding inland water bodies
+(lakes, reservoirs, rivers). Water area is the sum of all water surfaces delimited by international
+boundaries and/or coastlines, including inland water bodies (lakes, reservoirs, rivers).
+
+Area - comparative This entry provides an area comparison based on total area equivalents.
+Most entities are compared with the entire US or one of the 50 states based on area measurements
+(1990 revised) provided by the US Bureau of the Census. The smaller entities are compared with
+Washington, DC (178 sq km, 69 sq mi) or The Mall in Washington, DC (0.59 sq km, 0.23 sq mi,
+146 acres).
+
+Background This entry usually highlights major historic events and current issues and may include
+a statement about one or two key future trends.
+
+Birth rate This entry gives the average annual number of births during a year per 1,000 persons
+in the population at midyear; also known as crude birth rate. The birth rate is usually the
+dominant factor in determining the rate of population growth. It depends on both the level
+of fertility and the age structure of the population.
+
+Budget This entry includes revenues, total expenditures, and capital expenditures.  These figures
+are calculated on an exchange rate basis, i.e., not in purchasing power parity (PPP) terms
+
+Capital This entry gives the location of the seat of government.
+
+Climate This entry includes a brief description of typical weather regimes throughout the year.
+
+Coastline This entry gives the total length of the boundary between the land area (including
+islands) and the sea.
+
+Communications This category deals with the means of exchanging information and includes the
+telephone, radio, television, and Internet service provider entries.
+
+Communications - note This entry includes miscellaneous communications information of significance
+not included elsewhere.
+
+Constitution This entry includes the dates of adoption, revisions, and major amendments.
+
+Country data codes see Data codes
+
+Country map Most versions of the Factbook provide a country map in color. The maps were produced
+from the best information available at the time of preparation. Names and/or boundaries may
+have changed subsequently.
+
+Country name This entry includes all forms of the country's name approved by the US Board on
+Geographic Names (Italy is used as an example): conventional long form (Italian Republic),
+conventional short form (Italy), local long form (Repubblica Italiana), local short form (Italia),
+former (Kingdom of Italy), as well as the abbreviation. Also see the Terminology note.
+
+Currency This entry identifies the national medium of exchange and its basic subunit.
+
+Currency code This entry gives the International Organization for Standardization (ISO) 4217
+alphabetic currency code for each country.
+
+Data codes This information is presented in Appendix D:  Cross-Reference List of Country Data
+Codes and Appendix E:  Cross-Reference List of Hydrographic Data Codes.  This appendix includes
+the US Government approved Federal Information Processing Standards (FIPS) codes, the International
+Organization for Standardization (ISO) codes, and Internet codes for land entities.  The appendix
+also includes the International Hydrographic Organization (IHO) codes, Aeronautical Chart and
+Information Center (ACIC; now a part of the National Imagery and Mapping Agency or NIMA) codes,
+and Defense Intelligence Agency (DIA) codes for hydrographic entities. The US Government has
+not yet approved a standard for hydrographic data codes similar to the FIPS 10-4 standard for
+country data codes.
+
+Date of information In general, information available as of 1 January 2001, was used in the
+preparation of this edition.
+
