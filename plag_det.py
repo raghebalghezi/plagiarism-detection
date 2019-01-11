@@ -8,10 +8,20 @@ Created on Thu Jan 10 19:29:10 2019
 
 import os
 #import time
-from nltk import ngrams
 
 ngram_len = 4
 
+
+def ngrams(sequence,n):
+    sequence = iter(sequence)
+    history = []
+    while n > 1:
+        history.append(next(sequence))
+        n -= 1
+    for item in sequence:
+        history.append(item)
+        yield tuple(history)
+        del history[0]
 
 def load_text(file_name):
     # load text file and return a string of its content
@@ -69,13 +79,3 @@ with open('report.txt',"w") as file:
             if len(sim) != 0:
                 file.writelines(doc+'\t'+ sus + '\t' +  str(sim)+'\n')
 
-
-    
-
-
-
-            
-        
-
-        
-        
