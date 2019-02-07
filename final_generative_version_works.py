@@ -1,10 +1,6 @@
 import operator
 import os
-import re
-from difflib import SequenceMatcher as SM
-import difflib
-import math
-from nltk.tokenize import word_tokenize
+
 
 def load_text(file_name):
     # load text file and return a string of its content
@@ -18,9 +14,13 @@ def fetch_file_names(directory):
                 if name.endswith(".txt"):
                     lst.append(name)
     return lst
-                    
-source_files  = fetch_file_names("docs")
-suspicious_files = fetch_file_names("sus_docs")
+
+source_dir = '/Users/raghebal-ghezi/Documents/plag_test/source-documents/'
+sus_dir = '/Users/raghebal-ghezi/Documents/plag_test/suspicious-documents/' 
+pred_dir = '/Users/raghebal-ghezi/Documents/plag_test/predicted-documents/' 
+                  
+source_files  = fetch_file_names(source_dir)
+suspicious_files = fetch_file_names(sus_dir)
 
 def ngrams(sequence,n):
     #len(seq)-len(n)+1
@@ -34,8 +34,8 @@ def ngrams(sequence,n):
         yield tuple(history)
         del history[0]
         
-source_dir = "docs/"
-sus_dir = "sus_docs/"
+#source_dir = "docs/"
+#sus_dir = "sus_docs/"
 def find_excerpt(source,suspicious,n,theta):
     
     src = str(load_text(source_dir+source)).replace("\n"," ")
@@ -90,7 +90,7 @@ def find_excerpt(source,suspicious,n,theta):
         return
 
 
-    return str("<feature "+ "this_length=" + '"'+ str(this_length) + '"' +
+    return str("<feature "+ '''name="artificial-plagiarism" translation="false" obfuscation="none"'''+" this_length=" + '"'+ str(this_length) + '"' +
                 " this_offset="+'"'+str(this_offset)+'"' +
                 " source_offset="+'"'+str(source_offset)+'"' +
                 " source_length="+'"'+str(source_length)+'"' +
@@ -100,11 +100,12 @@ def find_excerpt(source,suspicious,n,theta):
 for sus_f in suspicious_files:
     xml_name = sus_f[0:-3]+"xml"
     with open(xml_name, 'w') as f:
-        f.write('''<?xml version="1.0" encoding="UTF-8"?>\n <document ''')
+        f.write('''<?xml version="1.0" encoding="UTF-8"?><document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="{}">'''.format(xml_name))
         for src_f in source_files:
             if find_excerpt(src_f, sus_f, 5, 240) != None:
                 f.write(find_excerpt(src_f, sus_f, 5, 240))
-        f.write(''' <document/>''')
-    break
+            else:
+                f.write("")
+        f.write('''</document>''')
 
- 
+    #break
